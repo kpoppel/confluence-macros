@@ -1,5 +1,5 @@
 ## Macro Name: applytemplatevars
-## Visibility: al users
+## Visibility: all users
 ## Macro Title: Apply Template Variables
 ## Description: This macro encases other macros so that template variables can be transferred to them.
 ## Categories: Confluence Content
